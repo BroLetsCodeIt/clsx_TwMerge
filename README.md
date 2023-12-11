@@ -1,6 +1,10 @@
 # clsx_TwMerge
 Template
 
+```sh
+npm install clsx tailwind-merge
+```
+
 ```js
 import clsx, { ClassValue } from "clsx";
 import { twMerge } from "tailwind-merge"
